@@ -1,0 +1,108 @@
+{
+    "workouts": [
+        {
+            "title": "Waist Twist Plate Rank 2",
+            "sets": [
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Group 1: Twist Your Waist: two times per second",
+                            "duration": 60
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 30
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Group 2: Twist Your Waist: two times per second",
+                            "duration": 60
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 30
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Group 3: Twist Your Waist: two times per second",
+                            "duration": 60
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 30
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Group 4: Twist Your Waist: two times per second",
+                            "duration": 60
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 30
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Group 5: Twist Your Waist: two times per second",
+                            "duration": 60
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 30
+                        }
+                    ]
+                }
+
+            ],
+
+            "version": 2,
+            "position": 0
+        }
+    ]
+}

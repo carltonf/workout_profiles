@@ -1,0 +1,105 @@
+{
+    "workouts": [
+        {
+            "title": "Air Squat Rank 1",
+            "sets": [
+                {
+                    "repetitions": 7,
+                    "exercises": [
+                        {
+                            "name": "Group 1: Squat down and stand up",
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 7,
+                    "exercises": [
+                        {
+                            "name": "Group 2: Squat down and stand up",
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 7,
+                    "exercises": [
+                        {
+                            "name": "Group 3: Squat down and stand up",
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 7,
+                    "exercises": [
+                        {
+                            "name": "Group 4: Squat down and stand up",
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 7,
+                    "exercises": [
+                        {
+                            "name": "Group 5: Squat down and stand up",
+                            "duration": 4
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 10
+                        }
+                    ]
+                }
+            ],
+            "version": 2,
+            "position": 0
+        }
+    ]
+}

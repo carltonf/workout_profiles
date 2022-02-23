@@ -1,0 +1,27 @@
+{
+    "workouts": [
+        {
+            "title": "Waist Twist Plate Rank 4",
+            "sets": [
+
+                {
+                    "repetitions": 5,
+                    "exercises": [
+                        {
+                            "name": "Twist Your Waist: two times per second",
+                            "duration": 165
+                        },
+                        {
+                            "name": "Rest",
+                            "duration": 30
+                        }
+                    ]
+                }
+
+            ],
+
+            "version": 2,
+            "position": 0
+        }
+    ]
+}
