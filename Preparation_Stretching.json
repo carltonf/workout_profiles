@@ -40,7 +40,7 @@
                     "exercises": [
                         {
                             "name": "手脚腕关节: 左脚点尖，两手交叉，逆时针转动关节",
-                            "duration": 10
+                            "duration": 13
                         },
 
                         {
@@ -55,7 +55,7 @@
                     "exercises": [
                         {
                             "name": "大腿外侧: 左腿向后提拉",
-                            "duration": 10
+                            "duration": 13
                         },
 
                         {
@@ -70,7 +70,7 @@
                     "exercises": [
                         {
                             "name": "腿内侧: 左腿前伸，弯腰前屈用手触碰脚尖",
-                            "duration": 12
+                            "duration": 15
                         },
 
                         {
@@ -85,7 +85,7 @@
                     "exercises": [
                         {
                             "name": "肩部: 保持手臂水平，向左后转，以肘带腰",
-                            "duration": 10
+                            "duration": 13
                         },
 
                         {
@@ -116,7 +116,7 @@
                     "exercises": [
                         {
                             "name": "大腿内侧: 下蹲，伸出左腿, 重心在右腿上，按压左腿",
-                            "duration": 12
+                            "duration": 15
                         },
 
                         {
@@ -132,12 +132,12 @@
                     "exercises": [
                         {
                             "name": "腹部侧面: 双手交叉向上伸直，左脚交叉右脚后，身体向右弯曲",
-                            "duration": 12
+                            "duration": 13
                         },
 
                         {
                             "name": "腹部侧面: 双手交叉向上伸直，右脚交叉左脚后，身体向左弯曲",
-                            "duration": 7
+                            "duration": 10
                         }
                     ]
                 },
@@ -147,12 +147,12 @@
                     "exercises": [
                         {
                             "name": "髂腰肌和腿前侧: 左腿向后伸压，两手和身体向右后上伸展",
-                            "duration": 12
+                            "duration": 13
                         },
 
                         {
                             "name": "髂腰肌和腿前侧: 右腿向后伸压，两手和身体向左后上伸展",
-                            "duration": 12
+                            "duration": 10
                         }
                     ]
                 },
@@ -162,7 +162,7 @@
                     "exercises": [
                         {
                             "name": "臂部: 身体保持向前，左腿抬起，向后交叉，下压",
-                            "duration": 12
+                            "duration": 10
                         },
 
                         {
