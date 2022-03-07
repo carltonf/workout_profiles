@@ -40,12 +40,12 @@
                     "exercises": [
                         {
                             "name": "手脚腕关节: 左脚点尖，两手交叉，逆时针转动关节",
-                            "duration": 13
+                            "duration": 8
                         },
 
                         {
                             "name": "手脚腕关节: 右脚点尖，两手交叉，顺时针转动关节",
-                            "duration": 10
+                            "duration": 7
                         }
                     ]
                 },
@@ -147,12 +147,12 @@
                     "exercises": [
                         {
                             "name": "髂腰肌和腿前侧: 左腿向后伸压，两手和身体向右后上伸展",
-                            "duration": 13
+                            "duration": 18
                         },
 
                         {
                             "name": "髂腰肌和腿前侧: 右腿向后伸压，两手和身体向左后上伸展",
-                            "duration": 10
+                            "duration": 15
                         }
                     ]
                 },
@@ -162,12 +162,12 @@
                     "exercises": [
                         {
                             "name": "臂部: 身体保持向前，左腿抬起，向后交叉，下压",
-                            "duration": 10
+                            "duration": 18
                         },
 
                         {
                             "name": "臂部: 身体保持向前，右腿抬起，向后交叉, 下压",
-                            "duration": 7
+                            "duration": 15
                         }
                     ]
                 }
