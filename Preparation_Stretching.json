@@ -1,0 +1,178 @@
+{
+    "workouts": [
+        {
+            "title": "预备拉伸运动",
+            "sets": [
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "颈部关节: 两手叉腰，颈部右拉抻",
+                            "duration": 5
+                        },
+                        {
+                            "name": "颈部关节: 两手叉腰，颈部左拉抻",
+                            "duration": 5
+                        },
+                        {
+                            "name": "颈部关节: 两手叉腰，颈部后拉抻",
+                            "duration": 5
+                        },
+                        {
+                            "name": "颈部关节: 两手叉腰，颈部前拉抻",
+                            "duration": 5
+                        },
+
+                        {
+                            "name": "颈部关节: 两手叉腰，颈部顺时针转动",
+                            "duration": 5
+                        },
+                        {
+                            "name": "颈部关节: 两手叉腰，颈部逆时针转动",
+                            "duration": 5
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "手脚腕关节: 左脚点尖，两手交叉，逆时针转动关节",
+                            "duration": 10
+                        },
+
+                        {
+                            "name": "手脚腕关节: 右脚点尖，两手交叉，顺时针转动关节",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "大腿外侧: 左腿向后提拉",
+                            "duration": 10
+                        },
+
+                        {
+                            "name": "大腿外侧: 右腿向后提拉",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "腿内侧: 左腿前伸，弯腰前屈用手触碰脚尖",
+                            "duration": 12
+                        },
+
+                        {
+                            "name": "腿内侧: 右腿前伸，弯腰前屈用手触碰脚尖",
+                            "duration": 12
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "肩部: 保持手臂水平，向左后转，以肘带腰",
+                            "duration": 10
+                        },
+
+                        {
+                            "name": "肩部: 保持手臂水平，向右后转，以肘带腰",
+                            "duration": 10
+                        }
+                    ]
+                },
+
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "腹部和脊柱: 半弯腰，保持视线向前，左右摆手，尽量向高",
+                            "duration": 28
+                        },
+                        {
+                            "name": "Rest",
+                            "duration": 5
+                        }
+                    ]
+                },
+
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "大腿内侧: 下蹲，伸出左腿, 重心在右腿上，按压左腿",
+                            "duration": 12
+                        },
+
+                        {
+                            "name": "大腿内侧: 下蹲，伸出右腿, 重心在左腿上，按压右腿",
+                            "duration": 12
+                        }
+                    ]
+                },
+
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "腹部侧面: 双手交叉向上伸直，左脚交叉右脚后，身体向右弯曲",
+                            "duration": 12
+                        },
+
+                        {
+                            "name": "腹部侧面: 双手交叉向上伸直，右脚交叉左脚后，身体向左弯曲",
+                            "duration": 7
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "髂腰肌和腿前侧: 左腿向后伸压，两手和身体向右后上伸展",
+                            "duration": 12
+                        },
+
+                        {
+                            "name": "髂腰肌和腿前侧: 右腿向后伸压，两手和身体向左后上伸展",
+                            "duration": 12
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "臂部: 身体保持向前，左腿抬起，向后交叉，下压",
+                            "duration": 12
+                        },
+
+                        {
+                            "name": "臂部: 身体保持向前，右腿抬起，向后交叉, 下压",
+                            "duration": 7
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
