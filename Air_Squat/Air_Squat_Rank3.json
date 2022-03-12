@@ -17,7 +17,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 10
+                            "duration": 20
                         }
                     ]
                 },
@@ -36,7 +36,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 10
+                            "duration": 20
                         }
                     ]
                 },
@@ -55,7 +55,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 10
+                            "duration": 20
                         }
                     ]
                 },
@@ -74,7 +74,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 10
+                            "duration": 20
                         }
                     ]
                 },
@@ -93,7 +93,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 10
+                            "duration": 20
                         }
                     ]
                 }
