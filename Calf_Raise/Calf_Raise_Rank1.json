@@ -1,0 +1,55 @@
+{
+    "workouts": [
+        {
+            "title": "Calf Raise Rank 1",
+            "sets": [
+
+                {
+                    "repetitions": 2,
+                    "exercises": [
+                        {
+                            "name": "Two-leg calf raise: stand against wall, 50 times",
+                            "duration": 60
+                        },
+                        {
+                            "name": "Rest",
+                            "duration": 20
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "One-leg calf raise: stand against wall, raise left leg, 30 times",
+                            "duration": 40
+                        },
+                        {
+                            "name": "Rest",
+                            "duration": 20
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "One-leg calf raise: stand against wall, raise right leg, 30 times",
+                            "duration": 40
+                        },
+                        {
+                            "name": "Rest",
+                            "duration": 20
+                        }
+                    ]
+                }
+
+            ],
+
+            "version": 2,
+            "position": 0
+        }
+    ]
+}
