@@ -1,0 +1,105 @@
+{
+    "workouts": [
+        {
+            "title": "Abdominal 12 times, 5 sets",
+            "sets": [
+                {
+                    "repetitions": 12,
+                    "exercises": [
+                        {
+                            "name": "Set 1: Push forward and pull back",
+                            "duration": 7
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 60
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 12,
+                    "exercises": [
+                        {
+                            "name": "Set 2: Push forward and pull back",
+                            "duration": 7
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 60
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 12,
+                    "exercises": [
+                        {
+                            "name": "Set 3: Push forward and pull back",
+                            "duration": 7
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 60
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 12,
+                    "exercises": [
+                        {
+                            "name": "Set 4: Push forward and pull back",
+                            "duration": 7
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 60
+                        }
+                    ]
+                },
+
+                {
+                    "repetitions": 12,
+                    "exercises": [
+                        {
+                            "name": "Set 5: Push forward and pull back",
+                            "duration": 7
+                        }
+                    ]
+                },
+                {
+                    "repetitions": 1,
+                    "exercises": [
+                        {
+                            "name": "Rest",
+                            "duration": 60
+                        }
+                    ]
+                }
+            ],
+            "version": 2,
+            "position": 0
+        }
+    ]
+}
