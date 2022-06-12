@@ -8,7 +8,7 @@
                     "exercises": [
                         {
                             "name": "Set 1: Push forward and pull back",
-                            "duration": 7
+                            "duration": 5
                         }
                     ]
                 },
@@ -17,7 +17,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 60
+                            "duration": 40
                         }
                     ]
                 },
@@ -27,7 +27,7 @@
                     "exercises": [
                         {
                             "name": "Set 2: Push forward and pull back",
-                            "duration": 7
+                            "duration": 5
                         }
                     ]
                 },
@@ -36,7 +36,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 60
+                            "duration": 40
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                     "exercises": [
                         {
                             "name": "Set 3: Push forward and pull back",
-                            "duration": 7
+                            "duration": 5
                         }
                     ]
                 },
@@ -55,7 +55,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 60
+                            "duration": 40
                         }
                     ]
                 },
@@ -65,7 +65,7 @@
                     "exercises": [
                         {
                             "name": "Set 4: Push forward and pull back",
-                            "duration": 7
+                            "duration": 5
                         }
                     ]
                 },
@@ -74,7 +74,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 60
+                            "duration": 40
                         }
                     ]
                 },
@@ -84,7 +84,7 @@
                     "exercises": [
                         {
                             "name": "Set 5: Push forward and pull back",
-                            "duration": 7
+                            "duration": 5
                         }
                     ]
                 },
@@ -93,7 +93,7 @@
                     "exercises": [
                         {
                             "name": "Rest",
-                            "duration": 60
+                            "duration": 40
                         }
                     ]
                 }
